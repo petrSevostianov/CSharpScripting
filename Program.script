@@ -1,0 +1,9 @@
+
+
+public static class Project{
+	public static void Main(){
+		//System.Diagnostics.Debugger.Break();
+		System.Console.WriteLine("Hello from script");
+	}
+}
+
