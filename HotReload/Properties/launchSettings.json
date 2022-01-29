@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HotReload": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\CSharpScripting\\ExampleScriptProject\\"
+    }
+  }
+}

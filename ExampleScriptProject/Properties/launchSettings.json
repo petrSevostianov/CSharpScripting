@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExampleScriptProject": {
+      "commandName": "Executable",
+      "executablePath": "dotnet.exe",
+      "workingDirectory": "$(ProjectDir)/../HotReload",
+      "commandLineArgs": "dotnet run --configuration Debug $(ProjectDir)"
+    }
+  }
+}
